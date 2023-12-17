@@ -22,7 +22,9 @@ Recommendations are provided to address disparities and foster inclusivity:
 Gender-Equal Practices: Enforce gender-neutral lending policies and conduct training sessions to reduce biases.
 Credit History Bias: Implement regular audits and data-driven training for objective credit assessments.
 Financial Education Initiatives: Extend financial education efforts through community outreach and emphasize the benefits of higher education for favorable loan conditions.
-Conclusion
+
+Conclusion:
+
 A detailed examination of gender dynamics, income distribution, and loan approval trends in home loan applications reveals a complicated picture. Gender disparities persist, with male applicants consistently having higher average incomes, which could explain differences in loan approval rates observed. Graduates, regardless of gender, have higher average loans than non- graduates, indicating a link between education level and borrowing, with potential gender disparities in financial considerations in higher education. In addition, the pie chart shows that there are significant gender differences in credit history and loan term preferences. Understanding and addressing these disparities is critical to ensuring that everyone has equal access to financial opportunities and a fair path to homeownership.
 
 Link: https://public.tableau.com/app/profile/janhvi.pimpalkar/viz/HomeLoanApproval_17028390972580/PieChart
